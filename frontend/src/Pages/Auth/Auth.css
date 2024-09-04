@@ -1,0 +1,29 @@
+.inner-content{
+    height: 50%;
+    border: 1px solid #cfcfcf;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.form{
+    margin-top: 50px !important;
+}
+
+.form-input{
+    margin: 15px 0px !important;
+}
+
+.form-btn-div{
+    display: flex;
+    justify-content: center;
+}
+
+.from-footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
